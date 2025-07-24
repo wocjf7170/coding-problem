@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DFS_BFS/DFS_BFS.iml" filepath="$PROJECT_DIR$/DFS_BFS/DFS_BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/GREEDY/GREEDY.iml" filepath="$PROJECT_DIR$/GREEDY/GREEDY.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/PCCP/PCCP.iml" filepath="$PROJECT_DIR$/PCCP/PCCP.iml" />
